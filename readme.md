@@ -2,5 +2,6 @@ LYA
 
 Luis
 Yahir
-Angel
+Gerardo
 Jhosafat
+Jose
